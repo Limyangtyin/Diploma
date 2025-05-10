@@ -34,3 +34,6 @@
 [submodule "Projects/Web/HTML_CSS_JS/WebFinalPortfolio"]
 	path = Projects/Web/HTML_CSS_JS/WebFinalPortfolio
 	url = https://github.com/Limyangtyin/WebFinal.git
+[submodule "Projects/MongoDB/Saas-2-BED-NoSQL"]
+	path = Projects/MongoDB/Saas-2-BED-NoSQL
+	url = https://github.com/Limyangtyin/LYT-ICT50220-SaaS-2-BED-NoSQL.git
