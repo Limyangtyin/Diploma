@@ -40,3 +40,6 @@
 [submodule "Resources/git-guide"]
 	path = Resources/git-guide
 	url = https://github.com/Limyangtyin/git-guide.git
+[submodule "Projects/Dart/Chittering-Community-App"]
+	path = Projects/Dart/Chittering-Community-App
+	url = https://github.com/Limyangtyin/NMT-Chittering-MA.git
