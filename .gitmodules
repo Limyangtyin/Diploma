@@ -37,3 +37,6 @@
 [submodule "Projects/MongoDB/Saas-2-BED-NoSQL"]
 	path = Projects/MongoDB/Saas-2-BED-NoSQL
 	url = https://github.com/Limyangtyin/LYT-ICT50220-SaaS-2-BED-NoSQL.git
+[submodule "Resources/git-guide"]
+	path = Resources/git-guide
+	url = https://github.com/Limyangtyin/git-guide.git
