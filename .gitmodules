@@ -1,0 +1,36 @@
+[submodule "Projects/Python/PlayerLinkedListManager"]
+	path = Projects/Python/PlayerLinkedListManager
+	url = https://github.com/Limyangtyin/PlayerLinkedListManager.git
+[submodule "Projects/Python/Projects/Python/PlayerLinkedListManager"]
+	path = Projects/Python/Projects/Python/PlayerLinkedListManager
+	url = https://github.com/Limyangtyin/PlayerLinkedListManager.git
+[submodule "Projects/Python/OAuth2"]
+	path = Projects/Python/OAuth2
+	url = https://github.com/Limyangtyin/OAuth2.git
+[submodule "Projects/Python/python-beginner-projects"]
+	path = Projects/Python/python-beginner-projects
+	url = https://github.com/Limyangtyin/python-beginner-projects.git
+[submodule "Projects/Python/civ-ipriot-proj-carpark"]
+	path = Projects/Python/civ-ipriot-proj-carpark
+	url = https://github.com/Limyangtyin/civ-ipriot-proj-carpark.git
+[submodule "Projects/Python/example-oauth2-server"]
+	path = Projects/Python/example-oauth2-server
+	url = https://github.com/Limyangtyin/example-oauth2-server.git
+[submodule "Projects/Web/PHP/FED-POR-Pt2"]
+	path = Projects/Web/PHP/FED-POR-Pt2
+	url = https://github.com/Limyangtyin/SaaS-FED-POR-Pt2-LYT.git
+[submodule "Projects/Web/PHP/Saas-BED-Portfolio"]
+	path = Projects/Web/PHP/Saas-BED-Portfolio
+	url = https://github.com/Limyangtyin/LYT-SaaS-BED-Portfolio.git
+[submodule "Projects/Web/HTML_CSS_JS/WebTechAssessment"]
+	path = Projects/Web/HTML_CSS_JS/WebTechAssessment
+	url = https://github.com/Limyangtyin/WebTechAssessment.git
+[submodule "Projects/Web/HTML_CSS_JS/WebTech"]
+	path = Projects/Web/HTML_CSS_JS/WebTech
+	url = https://github.com/Limyangtyin/Webtech.git
+[submodule "Projects/Web/HTML_CSS_JS/WebTech1"]
+	path = Projects/Web/HTML_CSS_JS/WebTech1
+	url = https://github.com/Limyangtyin/WebTech1.git
+[submodule "Projects/Web/HTML_CSS_JS/WebFinalPortfolio"]
+	path = Projects/Web/HTML_CSS_JS/WebFinalPortfolio
+	url = https://github.com/Limyangtyin/WebFinal.git
